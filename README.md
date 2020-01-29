@@ -8,3 +8,7 @@
 
 ## Datasets
 * [SIDER](http://sideeffects.embl.de/download/), a drug side effect database
+
+
+## Kaggle Datasets
+* [Medical Transcriptions by Tara Boyle](https://www.kaggle.com/tboyle10/medicaltranscriptions)
