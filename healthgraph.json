@@ -2,6 +2,7 @@
   "entities": [
     "22q11 deletion syndrome",
     "6-diphosphatase deficiency fructose-1",
+    "a lot",
     "abdomen",
     "abdominal",
     "abdominal abscess",
@@ -16,6 +17,8 @@
     "abducens nerve injury",
     "aberrant crypt foci",
     "abetalipoproteinemia",
+    "able",
+    "able to",
     "abnormal",
     "abnormal reflex",
     "abnormalities",
@@ -36,11 +39,13 @@
     "accessory nerve diseases",
     "acetone",
     "ache",
+    "aches",
     "aching",
     "achlorhydria",
     "achondroplasia",
     "acid reflux",
     "acid-base imbalance",
+    "acidity",
     "acidophil adenoma",
     "acidosis",
     "acinar cell carcinoma",
@@ -117,6 +122,7 @@
     "adenosarcoma",
     "adenosquamous carcinoma",
     "adenoviridae infections",
+    "adh",
     "adhd",
     "adie syndrome",
     "adipose tissue neoplasms",
@@ -140,12 +146,14 @@
     "adult respiratory distress syndrome",
     "adult t-cell leukemia-lymphoma",
     "adult-onset still's disease",
+    "affected",
     "afferent loop syndrome",
     "afibrinogenemia",
     "afraid",
     "african horse sickness",
     "african swine fever",
     "african trypanosomiasis",
+    "after",
     "agammaglobulinemia",
     "ageusia",
     "aggressive fibromatosis",
@@ -190,9 +198,12 @@
     "alien hand syndrome",
     "alkalosis",
     "alkaptonuria",
+    "allergic",
     "allergic bronchopulmonary aspergillosis",
     "allergic conjunctivitis",
     "allergic contact dermatitis",
+    "allergies",
+    "allergy",
     "alopecia",
     "alopecia areata",
     "alpha 1-antitrypsin deficiency",
@@ -331,6 +342,7 @@
     "apparent mineralocorticoid excess syndrome",
     "appendiceal neoplasms",
     "appendicitis",
+    "appendix",
     "appetite",
     "apraxias",
     "apudoma",
@@ -349,6 +361,7 @@
     "armpits",
     "arms",
     "arnold-chiari malformation",
+    "around",
     "arrhythmogenic right ventricular dysplasia",
     "arsenic poisoning",
     "arterial occlusive diseases",
@@ -374,6 +387,7 @@
     "ascites",
     "ascorbic acid deficiency",
     "aseptic meningitis",
+    "asleep",
     "aspartylglucosaminuria",
     "asperger syndrome",
     "aspergillosis",
@@ -384,6 +398,8 @@
     "aspirin-induced asthma",
     "ass",
     "assaulted",
+    "assistance",
+    "assisted",
     "asthenopia",
     "asthenozoospermia",
     "asthma",
@@ -393,6 +409,7 @@
     "asymptomatic diseases",
     "ataxia",
     "ataxia telangiectasia",
+    "ate",
     "atherosclerosis",
     "atherosclerotic plaque",
     "athetosis",
@@ -408,11 +425,16 @@
     "atrophic muscular disorders",
     "atrophic rhinitis",
     "atrophy",
+    "attack",
     "attention deficit and disruptive behavior disorders",
     "attention deficit disorder with hyperactivity",
     "atypical mycobacterium infections",
     "auditory perceptual disorders",
+    "autistic",
     "autistic disorder",
+    "auto immune",
+    "auto-immune",
+    "autoimmune",
     "autoimmune diseases",
     "autoimmune diseases of the nervous system",
     "autoimmune hemolytic anemia",
@@ -434,6 +456,9 @@
     "avian tuberculosis",
     "avitaminosis",
     "avulavirus infections",
+    "awake",
+    "aware",
+    "awareness",
     "azoospermia",
     "azotemia",
     "b-cell chronic lymphocytic leukemia",
@@ -449,6 +474,7 @@
     "back injuries",
     "back pain",
     "backbone",
+    "backpain",
     "bacteremia",
     "bacterial conjunctivitis",
     "bacterial endocarditis",
@@ -474,6 +500,7 @@
     "baldness",
     "balkan nephropathy",
     "bardet-biedl syndrome",
+    "barely",
     "barotrauma",
     "barrett esophagus",
     "barth syndrome",
@@ -494,10 +521,12 @@
     "bcr-abl positive chronic myelogenous leukemia",
     "beard",
     "beckwith-wiedemann syndrome",
+    "before",
     "behavior",
     "behcet syndrome",
     "bell palsy",
     "belly",
+    "belly button",
     "below",
     "benign familial pemphigus",
     "benign fibrous histiocytoma",
@@ -510,7 +539,9 @@
     "beta-mannosidosis",
     "beta-thalassemia",
     "better",
+    "between",
     "bezoars",
+    "bicep",
     "bifidobacteriales infections",
     "big",
     "bilateral hearing loss",
@@ -528,6 +559,7 @@
     "binge-eating disorder",
     "biopsy",
     "biotinidase deficiency",
+    "bipolar",
     "bipolar disorder",
     "bird diseases",
     "bird fancier's lung",
@@ -535,8 +567,14 @@
     "birt-hogg-dube syndrome",
     "birth injuries",
     "bit",
+    "bite",
+    "bites",
     "bites and stings",
+    "biting",
     "black",
+    "black out",
+    "blacked out",
+    "blacking out",
     "blackwater fever",
     "bladder",
     "bladder exstrophy",
@@ -546,6 +584,7 @@
     "blastomycosis",
     "bleed",
     "bleeding",
+    "bleeds",
     "blepharitis",
     "blepharophimosis",
     "blepharoptosis",
@@ -554,6 +593,7 @@
     "blindness",
     "blink",
     "blister",
+    "blisters",
     "bloated",
     "bloating",
     "blockage",
@@ -570,12 +610,17 @@
     "blood protein disorders",
     "blood sugar",
     "bloom syndrome",
+    "blow",
+    "blowed",
+    "blowing",
+    "blows",
     "blue",
     "blue nevus",
     "blue toe syndrome",
     "bluetongue",
     "blurred",
     "blurry",
+    "body",
     "body dysmorphic disorders",
     "body part",
     "body system",
@@ -593,12 +638,18 @@
     "bone resorption",
     "bone tissue neoplasms",
     "bones",
+    "boob",
+    "boobs",
     "border disease",
+    "border line",
+    "borderline",
     "borderline leprosy",
     "borderline personality disorder",
     "bordetella infections",
     "borna disease",
     "borrelia infections",
+    "both side",
+    "both sides",
     "bottom",
     "botulism",
     "boutonneuse fever",
@@ -670,10 +721,12 @@
     "brown",
     "brown-pearce carcinoma",
     "brown-sequard syndrome",
+    "brownish",
     "brucellosis",
     "brugada syndrome",
     "bruise",
     "bruised",
+    "bruises",
     "bruising",
     "bruxism",
     "budd-chiari syndrome",
@@ -684,6 +737,7 @@
     "bulimia nervosa",
     "bulimic",
     "bullous pemphigoid",
+    "bump",
     "bumps",
     "bundle-branch block",
     "bunyaviridae infections",
@@ -717,6 +771,7 @@
     "caliciviridae infections",
     "california encephalitis",
     "callosities",
+    "calm",
     "campomelic dysplasia",
     "campylobacter infections",
     "camurati-engelmann syndrome",
@@ -837,6 +892,7 @@
     "cerebrovascular disorders",
     "cerebrovascular trauma",
     "cerebrum",
+    "cervical",
     "cervical cancer",
     "cervical intraepithelial neoplasia",
     "cervical rib syndrome",
@@ -855,6 +911,7 @@
     "charge syndrome",
     "chediak-higashi syndrome",
     "cheek",
+    "cheeks",
     "cheilitis",
     "chemical burns",
     "chemo",
@@ -862,6 +919,7 @@
     "chemotherapy",
     "cherubism",
     "chest",
+    "chest wall",
     "cheyne-stokes respiration",
     "chiari-frommel syndrome",
     "chickenpox",
@@ -876,6 +934,7 @@
     "chlamydophila infections",
     "chloracne",
     "choanal atresia",
+    "choking",
     "cholangiocarcinoma",
     "cholangitis",
     "cholecystitis",
@@ -886,6 +945,7 @@
     "cholera",
     "cholestasis",
     "cholesteatoma",
+    "cholesterol",
     "cholesterol embolism",
     "cholesterol ester storage disease",
     "choline deficiency",
@@ -959,11 +1019,14 @@
     "ciliophora infections",
     "circadian rhythm sleep disorders",
     "circoviridae infections",
+    "circular",
     "circulating neoplastic cells",
+    "circulation",
     "circulatory system",
     "citrullinemia",
     "classical lissencephalies and subcortical band heterotopias",
     "classical swine fever",
+    "clear",
     "clear cell adenocarcinoma",
     "clear cell sarcoma",
     "cleft lip",
@@ -971,12 +1034,16 @@
     "cleidocranial dysplasia",
     "clitoris",
     "clonorchiasis",
+    "close",
     "closed fractures",
     "closed head injuries",
     "clostridium infections",
     "clotting",
+    "cloudy",
     "clubfoot",
+    "cluster",
     "cluster headache",
+    "clusters",
     "cns demyelinating autoimmune diseases",
     "coagulation protein disorders",
     "cobblestone lissencephaly",
@@ -1017,6 +1084,8 @@
     "coma",
     "comatose",
     "combat disorders",
+    "comfortable",
+    "comfortably",
     "comminuted fractures",
     "common",
     "common bile duct diseases",
@@ -1034,8 +1103,13 @@
     "complex partial epilepsy",
     "complex regional pain syndromes",
     "complicated",
+    "complicating",
+    "complication",
     "complications",
     "composite lymphoma",
+    "comprehend",
+    "comprehended",
+    "comprehension",
     "compression fractures",
     "compromised",
     "compulsive",
@@ -1087,7 +1161,9 @@
     "connective tissue neoplasms",
     "consciousness",
     "consciousness disorders",
+    "consistent",
     "constant",
+    "constantly",
     "constantly up",
     "constipated",
     "constipation",
@@ -1095,10 +1171,14 @@
     "contact dermatitis",
     "contagious ecthyma",
     "contagious pleuropneumonia",
+    "continuously",
     "contracted",
     "contraction",
     "contracture",
     "contrecoup injury",
+    "control",
+    "controled",
+    "controlling",
     "contusions",
     "convalescence",
     "conversion disorder",
@@ -1116,6 +1196,7 @@
     "corneal perforation",
     "corneal ulcer",
     "corneal wavefront aberration",
+    "corona virus",
     "coronary aneurysm",
     "coronary artery disease",
     "coronary disease",
@@ -1133,12 +1214,18 @@
     "corynebacterium infections",
     "costello syndrome",
     "cough",
+    "coughing",
+    "couldn't",
+    "couldnt",
     "covid-19",
     "cowpox",
     "coxsackievirus infections",
+    "crack",
+    "cracked",
     "cracked tooth syndrome",
     "cracking",
     "crackling",
+    "cracks",
     "cramp",
     "cramping",
     "cramps",
@@ -1174,6 +1261,7 @@
     "cryptogenic organizing pneumonia",
     "cryptorchidism",
     "cryptosporidiosis",
+    "csf leak",
     "ct scan",
     "cubital tunnel syndrome",
     "cumulative trauma disorders",
@@ -1195,6 +1283,7 @@
     "cyclothymic disorder",
     "cystadenocarcinoma",
     "cystadenoma",
+    "cystectomy",
     "cystic fibrosis",
     "cystic kidney diseases",
     "cystic lymphangioma",
@@ -1215,6 +1304,8 @@
     "dandy-walker syndrome",
     "darier disease",
     "dark",
+    "darker",
+    "darkness",
     "de lange syndrome",
     "de quervain disease",
     "deaf",
@@ -1281,6 +1372,7 @@
     "depressed",
     "depressed skull fracture",
     "depression",
+    "depressive",
     "depressive disorder",
     "dermatitis",
     "dermatitis herpetiformis",
@@ -1293,6 +1385,10 @@
     "desulfovibrionaceae infections",
     "developmental bone diseases",
     "developmental disabilities",
+    "deviate",
+    "deviated",
+    "deviates",
+    "deviating",
     "dextrocardia",
     "diabetes",
     "diabetes complications",
@@ -1339,8 +1435,10 @@
     "digestive system abnormalities",
     "digestive system fistula",
     "digestive system neoplasms",
+    "digestive tract",
     "digital dermatitis",
     "dihydropyrimidine dehydrogenase deficiency",
+    "dilated",
     "dilated cardiomyopathy",
     "dipetalonema infections",
     "diphtheria",
@@ -1363,6 +1461,7 @@
     "diseases premature infant",
     "dislocations",
     "disorder",
+    "disorders",
     "disorders of excessive somnolence",
     "disorders of sex development",
     "disorganized schizophrenia",
@@ -1384,15 +1483,23 @@
     "dizzy",
     "dna repair-deficiency disorders",
     "dna virus infections",
+    "doesn\u2019t",
     "dog diseases",
     "donohue syndrome",
+    "don\u2019t",
+    "dot",
+    "dots",
     "dotted",
     "double outlet right ventricle",
     "dourine",
     "down",
     "down syndrome",
     "dracunculiasis",
+    "drank",
+    "drink",
     "drinking",
+    "dripping",
+    "drippy",
     "drop",
     "drowning",
     "drug eruptions",
@@ -1432,6 +1539,7 @@
     "dysgeusia",
     "dyshidrotic eczema",
     "dyskeratosis congenita",
+    "dyskinesia",
     "dyskinesias",
     "dyslexia",
     "dyslipidemias",
@@ -1458,6 +1566,7 @@
     "easily",
     "eastern equine encephalomyelitis",
     "easy",
+    "eat",
     "eating",
     "eating disorders",
     "ebola hemorrhagic fever",
@@ -1497,8 +1606,13 @@
     "ekg",
     "elbow",
     "elbows",
+    "electric",
     "electric burns",
+    "electric current",
+    "electric currents",
     "electric injuries",
+    "electric shock",
+    "electric shocks",
     "elephantiasis",
     "elevated",
     "elevation",
@@ -1512,9 +1626,13 @@
     "emergencies",
     "emerging communicable diseases",
     "emery-dreifuss muscular dystrophy",
+    "emotion",
     "emotional",
+    "emotionally",
+    "emotions",
     "emphysema",
     "emphysematous cholecystitis",
+    "empty",
     "empty sella syndrome",
     "empyema",
     "encephalitis",
@@ -1661,6 +1779,9 @@
     "exophthalmos",
     "exostoses",
     "exotropia",
+    "experience",
+    "experienced",
+    "experiencing",
     "experimental arthritis",
     "experimental autoimmune encephalomyelitis",
     "experimental autoimmune myasthenia gravis",
@@ -1677,6 +1798,10 @@
     "experimental sarcoma",
     "exposure",
     "exsanguination",
+    "extend",
+    "extended",
+    "extending",
+    "extends",
     "extensively drug-resistant tuberculosis",
     "external",
     "extra-adrenal paraganglioma",
@@ -1731,8 +1856,10 @@
     "failure to thrive",
     "faint",
     "fainting",
+    "fairly",
     "falciparum malaria",
     "fall",
+    "falling asleep",
     "fallopian tube",
     "fallopian tube diseases",
     "fallopian tube neoplasms",
@@ -1773,14 +1900,17 @@
     "fecal impaction",
     "fecal incontinence",
     "feeding and eating disorders of childhood",
+    "feel",
     "feel unwell",
     "feeling",
     "feeling tired",
+    "feelings",
     "feet",
     "feline acquired immunodeficiency syndrome",
     "feline infectious peritonitis",
     "feline leukemia",
     "feline panleukopenia",
+    "felt",
     "felty's syndrome",
     "female athlete triad syndrome",
     "female genital diseases",
@@ -1819,6 +1949,7 @@
     "fibrous tissue neoplasms",
     "filarial elephantiasis",
     "filariasis",
+    "filled",
     "filoviridae infections",
     "finger",
     "finger injuries",
@@ -1832,9 +1963,14 @@
     "fissure in ano",
     "fissured tongue",
     "fistula",
+    "fit",
+    "fits",
     "flail chest",
     "flaking",
+    "flank",
+    "flanks",
     "flare up",
+    "flare ups",
     "flaring up",
     "flat",
     "flatfoot",
@@ -1846,14 +1982,20 @@
     "flexible",
     "flu",
     "flu-like",
+    "fluctuate",
+    "fluctuates",
+    "fluctuating",
     "fluid",
     "fluoride poisoning",
+    "flushed",
     "focal dermal hypoplasia",
     "focal epithelial hyperplasia",
     "focal infection",
     "focal nodular hyperplasia",
     "focal segmental glomerulosclerosis",
     "folic acid deficiency",
+    "follicle",
+    "follicles",
     "follicular adenocarcinoma",
     "follicular cyst",
     "follicular dendritic cell sarcoma",
@@ -1862,6 +2004,7 @@
     "follicular papillary carcinoma",
     "folliculitis",
     "food hypersensitivity",
+    "food poisoning",
     "foodborne diseases",
     "foot",
     "foot and mouth disease hand",
@@ -1878,6 +2021,8 @@
     "foreign-body granuloma",
     "foreign-body migration",
     "foreign-body reaction",
+    "foreskin",
+    "forget",
     "foul",
     "fournier gangrene",
     "fowlpox",
@@ -1890,6 +2035,7 @@
     "freemartinism",
     "frequent",
     "frequently",
+    "friction",
     "friedreich ataxia",
     "frontal lobe epilepsy",
     "frontal sinusitis",
@@ -1901,9 +2047,11 @@
     "fuchs' endothelial dystrophy",
     "fucosidosis",
     "full",
+    "fullblown",
     "function",
     "functional colonic diseases",
     "functional hearing loss",
+    "functions",
     "fungal eye infections",
     "fungal infection",
     "fungal infections",
@@ -1938,6 +2086,8 @@
     "gas",
     "gas gangrene",
     "gas poisoning",
+    "gasping",
+    "gasping for air",
     "gassy",
     "gastric antral vascular ectasia",
     "gastric dilatation",
@@ -1956,6 +2106,7 @@
     "gastroparesis",
     "gastroschisis",
     "gaucher disease",
+    "general",
     "generalized",
     "generalized epilepsy",
     "genetic anticipation",
@@ -2031,13 +2182,17 @@
     "gm1 gangliosidosis",
     "gm2 gangliosidoses",
     "gnathostomiasis",
+    "go away",
     "goat diseases",
+    "goes away",
+    "going away",
     "goiter",
     "goldenhar syndrome",
     "gonadal disorders",
     "gonadal dysgenesis",
     "gonadal tissue neoplasms",
     "gonadoblastoma",
+    "gone",
     "gonorrhea",
     "gout",
     "gouty arthritis",
@@ -2064,6 +2219,8 @@
     "growth disorders",
     "growth hormone-secreting pituitary adenoma",
     "guillain-barre syndrome",
+    "gum",
+    "gums",
     "gunshot wounds",
     "gustatory sweating",
     "gynatresia",
@@ -2075,11 +2232,14 @@
     "haemophilus meningitis",
     "hair",
     "hair diseases",
+    "hair follicle",
+    "hair follicles",
     "hairy cell leukemia",
     "hairy leukoplakia",
     "hairy tongue",
     "hajdu-cheney syndrome",
     "half",
+    "halfs",
     "hallermann's syndrome",
     "hallucinations",
     "hallux limitus",
@@ -2087,6 +2247,7 @@
     "hallux valgus",
     "hallux varus",
     "halo nevus",
+    "halves",
     "hamartoma",
     "hammer toe syndrome",
     "hand",
@@ -2094,6 +2255,7 @@
     "hand dermatoses",
     "hand injuries",
     "hand-arm vibration syndrome",
+    "hands",
     "hantavirus infections",
     "hantavirus pulmonary syndrome",
     "hard",
@@ -2105,7 +2267,11 @@
     "head and neck neoplasms",
     "headache",
     "headache disorders",
+    "headaches",
+    "heal",
+    "healed",
     "healing",
+    "heals",
     "health",
     "hearing",
     "hearing disorders",
@@ -2113,6 +2279,7 @@
     "heart",
     "heart aneurysm",
     "heart arrest",
+    "heart attack",
     "heart beat",
     "heart block",
     "heart diseases",
@@ -2135,6 +2302,7 @@
     "heavy",
     "heavy chain disease",
     "heel spur",
+    "heightened",
     "helicobacter infections",
     "hellp syndrome",
     "helminthiasis",
@@ -2244,8 +2412,12 @@
     "hidrocystoma",
     "high",
     "high cardiac output",
+    "high level",
+    "high levels",
     "high pressure neurological syndrome",
     "high-frequency hearing loss",
+    "highly",
+    "hindering",
     "hip",
     "hip contracture",
     "hip dislocation",
@@ -2261,6 +2433,7 @@
     "histiocytosis",
     "histoplasmosis",
     "histrionic personality disorder",
+    "hiv",
     "hiv enteropathy",
     "hiv infections",
     "hiv seropositivity",
@@ -2273,6 +2446,8 @@
     "homocystinuria",
     "hookworm infections",
     "hordeolum",
+    "horizontal",
+    "horizontally",
     "hormone-dependent neoplasms",
     "horner syndrome",
     "horrible",
@@ -2392,6 +2567,7 @@
     "hypokalemic periodic paralysis",
     "hypokinesia",
     "hypolipoproteinemias",
+    "hypomanic",
     "hyponatremia",
     "hypoparathyroidism",
     "hypopharyngeal neoplasms",
@@ -2416,6 +2592,7 @@
     "ichthyosis bullosa of siemens",
     "ichthyosis vulgaris",
     "ideomotor apraxia",
+    "idiopathic",
     "idiopathic cd4-positive t-lymphocytopenia",
     "idiopathic hypersomnolence",
     "idiopathic interstitial pneumonias",
@@ -2431,6 +2608,7 @@
     "ileus",
     "iliac aneurysm",
     "iliotibial band syndrome",
+    "ill",
     "illusions",
     "imaging",
     "imbalance",
@@ -2441,6 +2619,7 @@
     "immune complex diseases",
     "immune reconstitution inflammatory syndrome",
     "immune system",
+    "immunity",
     "immunoblastic large-cell lymphoma",
     "immunoblastic lymphadenopathy",
     "immunocompromised",
@@ -2455,6 +2634,7 @@
     "implant capsular contracture",
     "impotence",
     "impulse control disorders",
+    "in between",
     "inability",
     "inappropriate adh syndrome",
     "inborn amino acid transport disorders",
@@ -2479,6 +2659,7 @@
     "increase",
     "increased",
     "increasing",
+    "indigestion",
     "inert gas narcosis",
     "infant nutrition disorders",
     "infantile apparent life-threatening event",
@@ -2487,6 +2668,7 @@
     "infarction",
     "infected aneurysm",
     "infection",
+    "infections",
     "infectious arthritis",
     "infectious bone diseases",
     "infectious bovine rhinotracheitis",
@@ -2499,6 +2681,7 @@
     "infectious skin diseases",
     "inferior wall myocardial infarction",
     "infertility",
+    "inflamed",
     "inflammation",
     "inflammatory bowel diseases",
     "inflammatory breast neoplasms",
@@ -2546,6 +2729,7 @@
     "intestinal pseudo-obstruction",
     "intestinal volvulus",
     "intestine",
+    "intestines",
     "intolerance",
     "intra-articular fractures",
     "intracranial",
@@ -2580,6 +2764,8 @@
     "invasive hydatidiform mole",
     "invasive pulmonary aspergillosis",
     "inverted papilloma",
+    "involuntarily",
+    "involuntary",
     "iridocorneal endothelial syndrome",
     "iridocyclitis",
     "iris",
@@ -2629,9 +2815,14 @@
     "jejunal diseases",
     "jejunal neoplasms",
     "jejunum",
+    "jerk",
+    "jerked",
+    "jerking",
+    "jerks",
     "jervell-lange nielsen syndrome",
     "jet lag syndrome",
     "job's syndrome",
+    "joint",
     "joint diseases",
     "joint instability",
     "joint loose bodies",
@@ -2725,6 +2916,9 @@
     "laryngostenosis",
     "larynx",
     "lassa fever",
+    "last",
+    "lasted",
+    "lasting",
     "latent syphilis",
     "latent tuberculosis",
     "lateral medullary syndrome",
@@ -2811,6 +3005,11 @@
     "limb-girdle muscular dystrophies",
     "limbic encephalitis",
     "limited scleroderma",
+    "limp",
+    "limping",
+    "linger",
+    "lingered",
+    "lingering",
     "lingual goiter",
     "lingual thyroid",
     "linitis plastica",
@@ -2854,7 +3053,10 @@
     "long-lived",
     "long-term",
     "loose anagen hair syndrome",
+    "loosen",
     "lordosis",
+    "lose",
+    "losing",
     "losing appetite",
     "losing weight",
     "loss",
@@ -2872,6 +3074,7 @@
     "lower",
     "lown-ganong-levine syndrome",
     "ludwig's angina",
+    "lumbar",
     "lump",
     "lumpy",
     "lumpy skin disease",
@@ -3005,6 +3208,8 @@
     "mediastinal neoplasms",
     "mediastinitis",
     "medical-test",
+    "medication",
+    "medicine",
     "medullary carcinoma",
     "medullary sponge kidney",
     "medulloblastoma",
@@ -3099,6 +3304,7 @@
     "milk hypersensitivity",
     "milk sickness",
     "miller fisher syndrome",
+    "mind",
     "mink viral enteritis",
     "minor",
     "miosis",
@@ -3175,6 +3381,8 @@
     "mucopolysaccharidosis vii",
     "mucormycosis",
     "mucositis",
+    "mucus",
+    "muffled",
     "muir-torre syndrome",
     "mulibrey nanism",
     "mullerian mixed tumor",
@@ -3285,6 +3493,7 @@
     "nasal cavity",
     "nasal obstruction",
     "nasal polyps",
+    "naseua",
     "nasopharyngeal diseases",
     "nasopharyngeal neoplasms",
     "nasopharyngitis",
@@ -3305,6 +3514,7 @@
     "necrotizing sialometaplasia",
     "necrotizing ulcerative gingivitis",
     "needlestick injuries",
+    "negative",
     "neglected diseases",
     "neisseriaceae infections",
     "nelson syndrome",
@@ -3332,11 +3542,13 @@
     "nephrosclerosis",
     "nephrosis",
     "nephrotic syndrome",
+    "nerve",
     "nerve compression syndromes",
     "nerve degeneration",
     "nerve sheath neoplasms",
     "nerve tissue neoplasms",
     "nerves",
+    "nervous",
     "nervous system",
     "nervous system alcohol-induced disorders",
     "nervous system heavy metal poisoning",
@@ -3395,6 +3607,7 @@
     "neurotoxicity syndromes",
     "neutropenia",
     "neutropenic enterocolitis",
+    "never",
     "nevus",
     "nevus of ota",
     "newborn respiratory distress syndrome",
@@ -3407,6 +3620,7 @@
     "nipple",
     "nipples",
     "no",
+    "no problem",
     "no-reflow phenomenon",
     "nocardia infections",
     "nocturnal enuresis",
@@ -3416,31 +3630,42 @@
     "nodular nonsuppurative panniculitis",
     "noise",
     "noise-induced hearing loss",
+    "noises",
     "noma",
     "non invasive",
+    "non stop",
     "non-gestational choriocarcinoma",
     "non-hodgkin lymphoma",
     "non-invasive",
     "non-langerhans-cell histiocytosis",
     "non-small-cell lung carcinoma",
+    "non-stop",
     "noninfiltrating intraductal carcinoma",
     "nonketotic hyperglycinemia",
     "nonodontogenic cysts",
     "nonpenetrating wounds",
+    "nonstop",
     "nonsynostotic plagiocephaly",
     "nonvital tooth",
     "noonan syndrome",
     "normal",
     "normal pressure hydrocephalus",
+    "normally",
     "nose",
+    "nose bleed",
+    "nose bleeds",
     "nose diseases",
     "nose neoplasms",
     "nostril",
     "nostrils",
+    "not",
+    "not able to",
+    "noticeable",
     "nuchal cord",
     "numbness",
     "nut hypersensitivity",
     "nutrition disorders",
+    "obese",
     "obesity",
     "obesity hypoventilation syndrome",
     "obsessive",
@@ -3455,6 +3680,8 @@
     "occasional",
     "occluded",
     "occupational dermatitis",
+    "occurence",
+    "occurrence",
     "ocd",
     "ochronosis",
     "ocular albinism",
@@ -3498,6 +3725,7 @@
     "onycholysis",
     "onychomycosis",
     "oophoritis",
+    "open",
     "open bite",
     "open fractures",
     "open-angle glaucoma",
@@ -3589,6 +3817,7 @@
     "ovarian neoplasms",
     "ovaries",
     "ovary",
+    "over",
     "overactive urinary bladder",
     "overbite",
     "overdose",
@@ -3602,12 +3831,17 @@
     "pagetoid reticulosis",
     "pain",
     "painful",
+    "painless",
     "pains",
     "palatal neoplasms",
     "pale",
     "pallister-hall syndrome",
     "palm",
     "palmoplantar keratoderma",
+    "palpatation",
+    "palpatations",
+    "palpatition",
+    "palpatitions",
     "pancoast syndrome",
     "pancreas",
     "pancreatic cancer",
@@ -3683,6 +3917,7 @@
     "parotid neoplasms",
     "parotitis",
     "parovarian cyst",
+    "paroxysmal",
     "paroxysmal dyspnea",
     "paroxysmal hemicrania",
     "paroxysmal hemoglobinuria",
@@ -3721,6 +3956,8 @@
     "peliosis hepatis",
     "pelizaeus-merzbacher disease",
     "pellagra",
+    "pelvic",
+    "pelvic area",
     "pelvic infection",
     "pelvic inflammatory disease",
     "pelvic neoplasms",
@@ -3754,6 +3991,7 @@
     "perinephritis",
     "period",
     "periodic",
+    "periodontal",
     "periodontal abscess",
     "periodontal atrophy",
     "periodontal attachment loss",
@@ -3793,6 +4031,7 @@
     "persistent truncus arteriosus",
     "persistent vegetative state",
     "persisting",
+    "personality",
     "personality disorders",
     "pervasive child development disorders",
     "peste-des-petits-ruminants",
@@ -3834,9 +4073,14 @@
     "pigmented villonodular synovitis",
     "pilomatrixoma",
     "pilonidal sinus",
+    "pimple",
+    "pimples",
+    "pinch",
+    "pinched",
     "pinching",
     "pineal gland",
     "pinealoma",
+    "pink",
     "pinta",
     "piriformis muscle syndrome",
     "piscirickettsiaceae infections",
@@ -3921,6 +4165,7 @@
     "poor",
     "pop",
     "popliteal cyst",
+    "popping",
     "porcine postweaning multisystemic wasting syndrome",
     "porcine reproductive and respiratory syndrome",
     "porokeratosis",
@@ -3929,11 +4174,15 @@
     "porphyrias",
     "port-wine stain",
     "portal hypertension",
+    "positive",
+    "post",
+    "post nasal drip",
     "post-concussion syndrome",
     "post-dural puncture headache",
     "post-exercise hypotension",
     "post-head injury coma",
     "post-infarction heart rupture",
+    "post-nasal drip",
     "post-traumatic epilepsy",
     "post-traumatic headache",
     "post-traumatic neoplasms",
@@ -3949,6 +4198,7 @@
     "postherpetic neuralgia",
     "postmenopausal osteoporosis",
     "postmortem changes",
+    "postnasal drip",
     "postoperative complications",
     "postoperative hemorrhage",
     "postoperative nausea and vomiting",
@@ -3999,6 +4249,7 @@
     "pressure",
     "pressure ulcer",
     "priapism",
+    "primary",
     "primary cutaneous anaplastic large cell lymphoma",
     "primary dysautonomias",
     "primary effusion lymphoma",
@@ -4017,6 +4268,9 @@
     "problem",
     "problematic",
     "problems",
+    "process",
+    "processed",
+    "processing",
     "proctitis",
     "proctocolitis",
     "prodding",
@@ -4032,6 +4286,8 @@
     "proliferative vitreoretinopathy",
     "prolonged pregnancy",
     "prolymphocytic leukemia",
+    "prominent",
+    "prominently",
     "properly",
     "propionic acidemia",
     "prosopagnosia",
@@ -4116,6 +4372,7 @@
     "pulmonary veno-occlusive disease",
     "pulpitis",
     "pulsating",
+    "pulse",
     "pulsing",
     "pupil disorders",
     "pure alexia",
@@ -4161,6 +4418,8 @@
     "radiodermatitis",
     "radius fractures",
     "raised",
+    "random",
+    "randomly",
     "ranula",
     "rapid",
     "rapidly",
@@ -4170,6 +4429,7 @@
     "rash",
     "rashes",
     "rat-bite fever",
+    "raw",
     "raynaud disease",
     "raynaud's phenomenon",
     "reactive arthritis",
@@ -4182,11 +4442,15 @@
     "rectal prolapse",
     "rectocele",
     "rectovaginal fistula",
+    "recurrent",
     "recurring",
     "red",
     "red blood cell count",
     "reddish",
     "redness",
+    "reduced",
+    "reduces",
+    "reducing",
     "reduction",
     "refeeding syndrome",
     "referred pain",
@@ -4203,6 +4467,7 @@
     "relieved",
     "rem sleep behavior disorder",
     "rem sleep parasomnias",
+    "removed",
     "renal aminoacidurias",
     "renal artery obstruction",
     "renal cell carcinoma",
@@ -4236,6 +4501,7 @@
     "respiratory tract neoplasms",
     "respirovirus infections",
     "resting heart rate",
+    "restless",
     "restless legs syndrome",
     "restrictive cardiomyopathy",
     "retained placenta",
@@ -4309,6 +4575,7 @@
     "rinderpest",
     "ring",
     "ringing",
+    "ringworm",
     "rising",
     "risky",
     "rna virus infections",
@@ -4322,6 +4589,7 @@
     "roseolovirus infections",
     "rotavirus infections",
     "rothmund-thomson syndrome",
+    "rotten",
     "rough",
     "round",
     "rubella",
@@ -4353,13 +4621,17 @@
     "sarcoma 180",
     "sarcoma 37",
     "sarcopenia",
+    "scabby",
     "scabies",
     "scalp",
     "scalp dermatoses",
     "scaly",
+    "scar",
     "scared",
     "scarlet fever",
+    "scarred",
     "scarring",
+    "scars",
     "scheuermann disease",
     "schistosomiasis",
     "schistosomiasis haematobia",
@@ -4392,6 +4664,7 @@
     "scrub typhus",
     "scurvy",
     "sea-blue histiocyte syndrome",
+    "seasonal",
     "seasonal affective disorder",
     "seasonal allergic rhinitis",
     "sebaceous adenocarcinoma",
@@ -4402,11 +4675,13 @@
     "seborrheic keratosis",
     "secernentea infections",
     "second primary neoplasms",
+    "secondary",
     "secondary dentin",
     "secondary headache disorders",
     "secondary hyperparathyroidism",
     "secondary hypertrophic osteoarthropathy",
     "secondary parkinson disease",
+    "see",
     "seizure",
     "seizures",
     "self mutilation",
@@ -4414,6 +4689,8 @@
     "seminoma",
     "sensation disorders",
     "sense",
+    "sensitive",
+    "sensitivity",
     "sensorineural hearing loss",
     "sensory partial epilepsy",
     "separation anxiety",
@@ -4421,6 +4698,7 @@
     "septic abortion",
     "septic shock",
     "septo-optic dysplasia",
+    "septum",
     "serious",
     "seriously",
     "seroma",
@@ -4450,6 +4728,9 @@
     "sexually",
     "sexually transmitted diseases",
     "sezary syndrome",
+    "shaft",
+    "shake",
+    "shaked",
     "shaken baby syndrome",
     "shaking",
     "shaky",
@@ -4479,6 +4760,7 @@
     "shoulder fractures",
     "shoulder impingement syndrome",
     "shoulder pain",
+    "shoulders",
     "shwartzman phenomenon",
     "shy-drager syndrome",
     "sialadenitis",
@@ -4535,7 +4817,15 @@
     "sleep disorders",
     "sleep initiation and maintenance disorders",
     "sleep paralysis",
+    "sleep walk",
+    "sleep walking",
     "sleep-wake transition disorders",
+    "sleeping",
+    "sleeps",
+    "sleepwalking",
+    "slept",
+    "slight",
+    "slightly",
     "slipped epiphyses",
     "slippery",
     "slit ventricle syndrome",
@@ -4552,7 +4842,10 @@
     "smell",
     "smith-lemli-opitz syndrome",
     "smith-magenis syndrome",
+    "smoke",
     "smoke inhalation injury",
+    "smoker",
+    "smoking",
     "smooth",
     "smooth muscle tumor",
     "snake bites",
@@ -4560,6 +4853,7 @@
     "sneeze",
     "sneezes",
     "sneezing",
+    "snot",
     "soft",
     "soft tissue infections",
     "soft tissue injuries",
@@ -4576,7 +4870,9 @@
     "sore",
     "sore throat",
     "soreness",
+    "sores",
     "sotos syndrome",
+    "sound",
     "sour",
     "sparganosis",
     "spasm",
@@ -4625,6 +4921,7 @@
     "spirochaetales infections",
     "spirurida infections",
     "spleen",
+    "splenectomy",
     "splenic diseases",
     "splenic infarction",
     "splenic neoplasms",
@@ -4645,7 +4942,13 @@
     "sporotrichosis",
     "spot",
     "spots",
+    "spotted",
+    "spotting",
     "sprains and strains",
+    "spread",
+    "spreaded",
+    "spreading",
+    "spreads",
     "squamous cell carcinoma",
     "squamous cell neoplasms",
     "squamous odontogenic tumor",
@@ -4660,12 +4963,14 @@
     "stage ii",
     "stage iii",
     "stage iv",
+    "standing",
     "staph infection",
     "staphylococcal food poisoning",
     "staphylococcal infections",
     "staphylococcal pneumonia",
     "staphylococcal scalded skin syndrome",
     "staphylococcal skin infections",
+    "started",
     "starvation",
     "starving",
     "status asthmaticus",
@@ -4678,6 +4983,8 @@
     "stiff",
     "stiff-person syndrome",
     "stiffness",
+    "sting",
+    "stinging",
     "stomach",
     "stomach cancer",
     "stomach diseases",
@@ -4691,13 +4998,22 @@
     "stomachache",
     "stomatitis",
     "stomatognathic system abnormalities",
+    "stone",
+    "stones",
+    "stopped",
     "strabismus",
+    "streak",
+    "streaks",
     "streptococcal infections",
     "stress",
     "stress fractures",
     "stress urinary incontinence",
+    "stressed",
     "stressing",
+    "stretch",
     "stretch mark",
+    "stretched",
+    "stretching",
     "striatonigral degeneration",
     "stroke",
     "strong",
@@ -4735,6 +5051,7 @@
     "sudden hearing loss",
     "sudden infant death",
     "sufficient",
+    "suggestive",
     "sulfhemoglobinemia",
     "sunburn",
     "sunct syndrome",
@@ -4752,10 +5069,14 @@
     "supratentorial neoplasms",
     "supravalvular aortic stenosis",
     "supraventricular tachycardia",
+    "surface",
+    "surgeries",
+    "surgery",
     "surgical blood loss",
     "surgical shock",
     "surgical wound dehiscence",
     "surgical wound infection",
+    "surrounding",
     "susac syndrome",
     "swallow",
     "swallowing",
@@ -4816,7 +5137,9 @@
     "tearing",
     "teeth",
     "telangiectasis",
+    "temp",
     "temperature",
+    "temporal",
     "temporal lobe epilepsy",
     "temporary",
     "temporomandibular joint disorders",
@@ -4834,12 +5157,15 @@
     "teratocarcinoma",
     "teratoma",
     "terminal",
+    "terrible",
+    "tertiary",
     "testes",
     "testicle",
     "testicular",
     "testicular diseases",
     "testicular hydrocele",
     "testicular neoplasms",
+    "testosterone",
     "tetanus",
     "tetany",
     "tetralogy of fallot",
@@ -4865,6 +5191,7 @@
     "thought",
     "thoughts",
     "threatened abortion",
+    "threw up",
     "throat",
     "throbbing",
     "thrombasthenia",
@@ -4908,6 +5235,7 @@
     "tics",
     "tietze's syndrome",
     "tight",
+    "tighten",
     "tinea",
     "tinea capitis",
     "tinea favosa",
@@ -4959,6 +5287,7 @@
     "torsades de pointes",
     "torsion abnormality",
     "torticollis",
+    "touch",
     "tough",
     "tourette syndrome",
     "toxascariasis",
@@ -5028,6 +5357,9 @@
     "tropical spastic paraparesis",
     "tropical sprue",
     "trouble",
+    "troubled",
+    "troubles",
+    "troubling",
     "trunk",
     "trypanosomiasis",
     "tubal pregnancy",
@@ -5044,7 +5376,11 @@
     "tumor virus infections",
     "tumors",
     "tungiasis",
+    "turn",
+    "turned",
     "turner syndrome",
+    "turning",
+    "turns",
     "twitch",
     "twitches",
     "twitching",
@@ -5073,6 +5409,7 @@
     "uncomfortable",
     "unconscious",
     "unconsciousness",
+    "under",
     "underactive",
     "underarm",
     "underarms",
@@ -5083,6 +5420,7 @@
     "unilateral hearing loss",
     "uniparental disomy",
     "unknown primary neoplasms",
+    "unpleasant",
     "unstable angina",
     "ununited fractures",
     "unverricht-lundborg syndrome",
@@ -5151,6 +5489,7 @@
     "uterine prolapse",
     "uterine rupture",
     "uterus",
+    "uti",
     "uveal diseases",
     "uveal neoplasms",
     "uveitis",
@@ -5169,6 +5508,7 @@
     "variant angina pectoris",
     "varicella zoster encephalitis",
     "varicocele",
+    "varicose",
     "varicose ulcer",
     "varicose veins",
     "variegate porphyria",
@@ -5211,6 +5551,8 @@
     "verrucous carcinoma",
     "vertebral artery dissection",
     "vertebrobasilar insufficiency",
+    "vertical",
+    "vertically",
     "vertigo",
     "vesico-ureteral reflux",
     "vesicovaginal fistula",
@@ -5223,7 +5565,11 @@
     "veterinary abortion",
     "veterinary venereal tumors",
     "vibrio infections",
+    "vigorous",
+    "vigorously",
     "villous adenoma",
+    "violent",
+    "violently",
     "vipoma",
     "viral bronchiolitis",
     "viral cell transformation",
@@ -5244,6 +5590,7 @@
     "visceral leishmaniasis",
     "visceral prolapse",
     "viscous",
+    "visible",
     "vision",
     "vision disorders",
     "visna",
@@ -5253,6 +5600,8 @@
     "vitamin b 6 deficiency",
     "vitamin b deficiency",
     "vitamin d deficiency",
+    "vitamin deficiencies",
+    "vitamin deficiency",
     "vitamin e deficiency",
     "vitamin k deficiency",
     "vitamin k deficiency bleeding",
@@ -5261,8 +5610,11 @@
     "vitreous detachment",
     "vitreous hemorrhage",
     "vivax malaria",
+    "vocal",
     "vocal cord paralysis",
+    "voice",
     "voice disorders",
+    "voluntary",
     "vomit",
     "vomiting",
     "von hippel-lindau disease",
@@ -5288,11 +5640,16 @@
     "wallerian degeneration",
     "wandering spleen",
     "warm",
+    "warmth",
     "warped",
     "warts",
     "was not",
+    "wash",
+    "washed",
+    "washing",
     "wasn't",
     "wasnt",
+    "wasn\u2019t",
     "wasting syndrome",
     "water intoxication",
     "water-electrolyte imbalance",
@@ -5317,17 +5674,22 @@
     "wet",
     "wet macular degeneration",
     "wheat hypersensitivity",
+    "wheezing",
     "whiplash injuries",
     "whipple disease",
     "white",
     "white blood cell count",
     "white heifer disease",
     "white muscle disease",
+    "whole",
     "whooping cough",
     "wide",
     "widening",
     "williams syndrome",
     "wilms tumor",
+    "wind",
+    "winded",
+    "winding",
     "wisdom teeth",
     "wisdom tooth",
     "wiskott-aldrich syndrome",
@@ -5339,11 +5701,16 @@
     "wolff-parkinson-white syndrome",
     "wolfram syndrome",
     "wolman disease",
+    "working",
+    "worried",
+    "worry",
+    "worrying",
     "worse",
     "wound",
     "wound infection",
     "wrist",
     "wrist injuries",
+    "wrists",
     "x-linked bulbo-spinal atrophy",
     "x-linked combined immunodeficiency diseases",
     "x-linked dominant hypophosphatemic rickets",
@@ -5367,6 +5734,7 @@
     "xyy karyotype",
     "y-linked genetic diseases",
     "yang deficiency",
+    "yawn",
     "yaws",
     "yellow",
     "yellow fever",
@@ -43755,6 +44123,2051 @@
       "drug use",
       "tagged as",
       "disease"
+    ],
+    [
+      "visible",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "bump",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "not",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "obese",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "sleeping",
+      "tagged as",
+      "function"
+    ],
+    [
+      "comfortable",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "uncomfortable",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "comfortably",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "forget",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "choking",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "awake",
+      "tagged as",
+      "function"
+    ],
+    [
+      "asleep",
+      "tagged as",
+      "function"
+    ],
+    [
+      "gasping",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "gasping for air",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "breathe",
+      "tagged as",
+      "function"
+    ],
+    [
+      "palpatations",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "palpatation",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "palpatition",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "palpatitions",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "chest wall",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "shoulders",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "food poisoning",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "continuously",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "bicep",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "no problem",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "tighten",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "loosen",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "cholesterol",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "belly button",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "blisters",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "filled",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "empty",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "heightened",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "awareness",
+      "tagged as",
+      "function"
+    ],
+    [
+      "aware",
+      "tagged as",
+      "function"
+    ],
+    [
+      "cervical",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "backpain",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "nervous",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "restless",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "irregular",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "pulse",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "intestines",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "digestive tract",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "flushed",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "cheeks",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "infections",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "infection",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "streaks",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "streak",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "cracks",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "crack",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "cracking",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "yawn",
+      "tagged as",
+      "function"
+    ],
+    [
+      "constantly",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "standing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "limp",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "limping",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "heart attack",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "stopped",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "started",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "auto immune",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "autoimmune",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "auto-immune",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "uti",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "unpleasant",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "allergies",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "allergy",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "pimples",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "boob",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "boobs",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "pimple",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "whole",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "over",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "under",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "worried",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "worry",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "worrying",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "wasn't",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "wasnt",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "was not",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "wasn\u2019t",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "before",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "after",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "stones",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "stone",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "recurrent",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "recurring",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "testosterone",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "dilated",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "stressed",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "calm",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "adh",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "fluctuates",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "fluctuate",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "fluctuating",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "falling asleep",
+      "tagged as",
+      "function"
+    ],
+    [
+      "sex drive",
+      "tagged as",
+      "function"
+    ],
+    [
+      "hindering",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "emotions",
+      "tagged as",
+      "function"
+    ],
+    [
+      "emotion",
+      "tagged as",
+      "function"
+    ],
+    [
+      "emotional",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "feeling",
+      "tagged as",
+      "function"
+    ],
+    [
+      "feelings",
+      "tagged as",
+      "function"
+    ],
+    [
+      "acidity",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "inflamed",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "hands",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "scarred",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "scarring",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "scar",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "scars",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "hair follicles",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "hair follicle",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "follicle",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "follicles",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "sting",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "stinging",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "allergic",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "periodontal",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "gum",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "gums",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "brownish",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "flare ups",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "pink",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "circular",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "ringworm",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "flank",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "flanks",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "appendix",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "removed",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "hiv",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "negative",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "positive",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "shaft",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "foreskin",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "painless",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "friction",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "cloudy",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "clear",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "slightly",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "both sides",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "both side",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "doesn\u2019t",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lasting",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "last",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lasted",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "wheezing",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "attack",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "consistent",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "feel",
+      "tagged as",
+      "function"
+    ],
+    [
+      "completely",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "flat",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "emotionally",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "autistic",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "bipolar",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "hypomanic",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "couldn't",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "couldnt",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "open",
+      "tagged as",
+      "function"
+    ],
+    [
+      "close",
+      "tagged as",
+      "function"
+    ],
+    [
+      "sound",
+      "tagged as",
+      "function"
+    ],
+    [
+      "fullblown",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "threw up",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "throwing up",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "non-stop",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "non stop",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "nonstop",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "muffled",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "comprehend",
+      "tagged as",
+      "function"
+    ],
+    [
+      "comprehension",
+      "tagged as",
+      "function"
+    ],
+    [
+      "comprehended",
+      "tagged as",
+      "function"
+    ],
+    [
+      "a lot",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "see",
+      "tagged as",
+      "function"
+    ],
+    [
+      "able",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "able to",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "not able to",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "joint",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "wrists",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "elbows",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "touch",
+      "tagged as",
+      "function"
+    ],
+    [
+      "sensitivity",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "felt",
+      "tagged as",
+      "function"
+    ],
+    [
+      "terrible",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "cystectomy",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "heal",
+      "tagged as",
+      "function"
+    ],
+    [
+      "healed",
+      "tagged as",
+      "function"
+    ],
+    [
+      "healing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "heals",
+      "tagged as",
+      "function"
+    ],
+    [
+      "surgery",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "surgeries",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "surface",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "pelvic",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "pelvic area",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "noticeable",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "never",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "experience",
+      "tagged as",
+      "function"
+    ],
+    [
+      "experienced",
+      "tagged as",
+      "function"
+    ],
+    [
+      "experiencing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "stretch",
+      "tagged as",
+      "function"
+    ],
+    [
+      "stretching",
+      "tagged as",
+      "function"
+    ],
+    [
+      "stretched",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "darkness",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "blacking out",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "blacked out",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "black out",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "circulation",
+      "tagged as",
+      "function"
+    ],
+    [
+      "mind",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "thought",
+      "tagged as",
+      "function"
+    ],
+    [
+      "thoughts",
+      "tagged as",
+      "function"
+    ],
+    [
+      "process",
+      "tagged as",
+      "function"
+    ],
+    [
+      "processing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "processed",
+      "tagged as",
+      "function"
+    ],
+    [
+      "fairly",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "occurrence",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "occurence",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "mental",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "blowing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "blow",
+      "tagged as",
+      "function"
+    ],
+    [
+      "blows",
+      "tagged as",
+      "function"
+    ],
+    [
+      "blowed",
+      "tagged as",
+      "function"
+    ],
+    [
+      "snot",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "naseua",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "sleeping",
+      "tagged as",
+      "function"
+    ],
+    [
+      "slept",
+      "tagged as",
+      "function"
+    ],
+    [
+      "sleep",
+      "tagged as",
+      "function"
+    ],
+    [
+      "sleeps",
+      "tagged as",
+      "function"
+    ],
+    [
+      "trouble",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "troubled",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "troubling",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "troubles",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "deviate",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "deviates",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "deviated",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "deviating",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "septum",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "nose bleeds",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "nose bleed",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "bleed",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "bleeds",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "bleeding",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "drink",
+      "tagged as",
+      "function"
+    ],
+    [
+      "eat",
+      "tagged as",
+      "function"
+    ],
+    [
+      "eating",
+      "tagged as",
+      "function"
+    ],
+    [
+      "ate",
+      "tagged as",
+      "function"
+    ],
+    [
+      "drank",
+      "tagged as",
+      "function"
+    ],
+    [
+      "body",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "mucus",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "post-nasal drip",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "postnasal drip",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "post nasal drip",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "normally",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "smoke",
+      "tagged as",
+      "function"
+    ],
+    [
+      "smoking",
+      "tagged as",
+      "function"
+    ],
+    [
+      "smoker",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "temp",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "temperature",
+      "tagged as",
+      "measurement"
+    ],
+    [
+      "vitamin deficiencies",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "vitamin deficiency",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "corona virus",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "post",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lumbar",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "complication",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "complicated",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "complicating",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "complications",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "headaches",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "csf leak",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "vigorously",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "vigorous",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "washed",
+      "tagged as",
+      "function"
+    ],
+    [
+      "wash",
+      "tagged as",
+      "function"
+    ],
+    [
+      "washing",
+      "tagged as",
+      "function"
+    ],
+    [
+      "don\u2019t",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "reducing",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "reduced",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "reduces",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "immunity",
+      "tagged as",
+      "function"
+    ],
+    [
+      "medicine",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "medication",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "colored",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "prominent",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "prominently",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "barely",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "darker",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "surrounding",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "noises",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "electric",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "shock",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "electric shock",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "electric shocks",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "electric current",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "electric currents",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "involuntarily",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "involuntary",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "voluntary",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "shake",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "shaked",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "shaking",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "jerk",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "jerking",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "jerked",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "jerks",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "around",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "borderline",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "border line",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "disorder",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "personality",
+      "tagged as",
+      "function"
+    ],
+    [
+      "randomly",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "random",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "idiopathic",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "secondary",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "primary",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "tertiary",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "splenectomy",
+      "tagged as",
+      "treatment"
+    ],
+    [
+      "vertically",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "vertical",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "horizontal",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "horizontally",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "halfs",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "halves",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "paroxysmal",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "dyskinesia",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "drippy",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "dripping",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "raw",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "seasonal",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "high levels",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "high level",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lingered",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "linger",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lingering",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "winded",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "winding",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "wind",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "fits",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "fit",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "coughing",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "rotten",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "varicose",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "extend",
+      "tagged as",
+      "function"
+    ],
+    [
+      "extended",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "extends",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "extending",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "in between",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "between",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "depressive",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "disorders",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "turn",
+      "tagged as",
+      "function"
+    ],
+    [
+      "turning",
+      "tagged as",
+      "function"
+    ],
+    [
+      "turned",
+      "tagged as",
+      "function"
+    ],
+    [
+      "turns",
+      "tagged as",
+      "function"
+    ],
+    [
+      "skull",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "spreading",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "spread",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "spreaded",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "spreads",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "warmth",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "slight",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "goes away",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "go away",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "going away",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "gone",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "affected",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "functions",
+      "tagged as",
+      "function"
+    ],
+    [
+      "pinched",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "pinch",
+      "tagged as",
+      "function"
+    ],
+    [
+      "pinching",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "nerve",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "nerves",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "dot",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "dotted",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "spotted",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "spotting",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "sleepwalking",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "sleep walking",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "sleep walk",
+      "tagged as",
+      "disease"
+    ],
+    [
+      "bites",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "bite",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "biting",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "cluster",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "clusters",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "sensitive",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "dots",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "scabby",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "aches",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "aching",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "violent",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "violent",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "violently",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lose",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "lost",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "losing",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "control",
+      "tagged as",
+      "function"
+    ],
+    [
+      "controlling",
+      "tagged as",
+      "function"
+    ],
+    [
+      "controled",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "assistance",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "assisted",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "ill",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "working",
+      "tagged as",
+      "function"
+    ],
+    [
+      "suggestive",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "highly",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "indigestion",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "sores",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "popping",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "temporal",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "general",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "cracked",
+      "tagged as",
+      "qualifier"
+    ],
+    [
+      "voice",
+      "tagged as",
+      "function"
+    ],
+    [
+      "vocal",
+      "tagged as",
+      "function"
+    ],
+    [
+      "bruises",
+      "tagged as",
+      "symptom"
     ]
   ]
 }
