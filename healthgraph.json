@@ -156,6 +156,7 @@
     "after",
     "agammaglobulinemia",
     "ageusia",
+    "aggressive",
     "aggressive fibromatosis",
     "aggressive periodontitis",
     "aggressiveness",
@@ -589,6 +590,7 @@
     "blepharophimosis",
     "blepharoptosis",
     "blepharospasm",
+    "blind",
     "blind loop syndrome",
     "blindness",
     "blink",
@@ -934,6 +936,8 @@
     "chlamydophila infections",
     "chloracne",
     "choanal atresia",
+    "choke",
+    "choked",
     "choking",
     "cholangiocarcinoma",
     "cholangitis",
@@ -1038,6 +1042,7 @@
     "closed fractures",
     "closed head injuries",
     "clostridium infections",
+    "clot",
     "clotting",
     "cloudy",
     "clubfoot",
@@ -1064,6 +1069,7 @@
     "colitis",
     "collagen diseases",
     "collagenous colitis",
+    "collapse",
     "collapsed",
     "colles' fracture",
     "colloid cysts",
@@ -1215,6 +1221,7 @@
     "costello syndrome",
     "cough",
     "coughing",
+    "coughs",
     "couldn't",
     "couldnt",
     "covid-19",
@@ -1855,6 +1862,7 @@
     "failure",
     "failure to thrive",
     "faint",
+    "fainted",
     "fainting",
     "fairly",
     "falciparum malaria",
@@ -1954,6 +1962,7 @@
     "finger",
     "finger injuries",
     "fingernail",
+    "fingernails",
     "fingers",
     "firesetting behavior",
     "firm",
@@ -2115,6 +2124,7 @@
     "genetic skin diseases",
     "genetic translocation",
     "genital",
+    "genitals",
     "genomic instability",
     "genu valgum",
     "genu varum",
@@ -3076,6 +3086,7 @@
     "ludwig's angina",
     "lumbar",
     "lump",
+    "lumps",
     "lumpy",
     "lumpy skin disease",
     "lung",
@@ -3662,6 +3673,7 @@
     "not able to",
     "noticeable",
     "nuchal cord",
+    "numb",
     "numbness",
     "nut hypersensitivity",
     "nutrition disorders",
@@ -4656,6 +4668,7 @@
     "scoliosis",
     "scotoma",
     "scrapie",
+    "scratch",
     "scratches",
     "scratchiness",
     "scratchy",
@@ -5410,6 +5423,7 @@
     "unconscious",
     "unconsciousness",
     "under",
+    "under arm",
     "underactive",
     "underarm",
     "underarms",
@@ -46168,6 +46182,2241 @@
       "bruises",
       "tagged as",
       "symptom"
+    ],
+    [
+      "burns",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "choke",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "choked",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "choked",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "cough",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "coughs",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "numb",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "scratch",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "seizure",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "seizures",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "collapse",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "fainted",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "blind",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "aggressive",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "tumor",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "blister",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "genitals",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "under arm",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "underarm",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "underarms",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "clot",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "lumps",
+      "tagged as",
+      "symptom"
+    ],
+    [
+      "ache",
+      "is also known as",
+      "aches"
+    ],
+    [
+      "ache",
+      "is also known as",
+      "aching"
+    ],
+    [
+      "ache",
+      "is also known as",
+      "pain"
+    ],
+    [
+      "ache",
+      "is also known as",
+      "painful"
+    ],
+    [
+      "ache",
+      "is also known as",
+      "pains"
+    ],
+    [
+      "aches",
+      "is also known as",
+      "aching"
+    ],
+    [
+      "aches",
+      "is also known as",
+      "pain"
+    ],
+    [
+      "aches",
+      "is also known as",
+      "painful"
+    ],
+    [
+      "aches",
+      "is also known as",
+      "pains"
+    ],
+    [
+      "aching",
+      "is also known as",
+      "pain"
+    ],
+    [
+      "aching",
+      "is also known as",
+      "painful"
+    ],
+    [
+      "aching",
+      "is also known as",
+      "pains"
+    ],
+    [
+      "pain",
+      "is also known as",
+      "painful"
+    ],
+    [
+      "pain",
+      "is also known as",
+      "pains"
+    ],
+    [
+      "painful",
+      "is also known as",
+      "pains"
+    ],
+    [
+      "acid reflux",
+      "is also known as",
+      "acidity"
+    ],
+    [
+      "acne",
+      "is also known as",
+      "pimple"
+    ],
+    [
+      "acne",
+      "is also known as",
+      "pimples"
+    ],
+    [
+      "pimple",
+      "is also known as",
+      "pimples"
+    ],
+    [
+      "afraid",
+      "is also known as",
+      "fear"
+    ],
+    [
+      "aggressive",
+      "is also known as",
+      "aggressiveness"
+    ],
+    [
+      "allergic",
+      "is also known as",
+      "allergies"
+    ],
+    [
+      "allergic",
+      "is also known as",
+      "allergy"
+    ],
+    [
+      "allergies",
+      "is also known as",
+      "allergy"
+    ],
+    [
+      "anxiety",
+      "is also known as",
+      "anxious"
+    ],
+    [
+      "balding",
+      "is also known as",
+      "baldness"
+    ],
+    [
+      "bite",
+      "is also known as",
+      "bites"
+    ],
+    [
+      "black out",
+      "is also known as",
+      "blacked out"
+    ],
+    [
+      "black out",
+      "is also known as",
+      "blacking out"
+    ],
+    [
+      "black out",
+      "is also known as",
+      "faint"
+    ],
+    [
+      "black out",
+      "is also known as",
+      "fainted"
+    ],
+    [
+      "black out",
+      "is also known as",
+      "fainting"
+    ],
+    [
+      "blacked out",
+      "is also known as",
+      "blacking out"
+    ],
+    [
+      "blacked out",
+      "is also known as",
+      "faint"
+    ],
+    [
+      "blacked out",
+      "is also known as",
+      "fainted"
+    ],
+    [
+      "blacked out",
+      "is also known as",
+      "fainting"
+    ],
+    [
+      "blacking out",
+      "is also known as",
+      "faint"
+    ],
+    [
+      "blacking out",
+      "is also known as",
+      "fainted"
+    ],
+    [
+      "blacking out",
+      "is also known as",
+      "fainting"
+    ],
+    [
+      "faint",
+      "is also known as",
+      "fainted"
+    ],
+    [
+      "faint",
+      "is also known as",
+      "fainting"
+    ],
+    [
+      "fainted",
+      "is also known as",
+      "fainting"
+    ],
+    [
+      "bleed",
+      "is also known as",
+      "bleeding"
+    ],
+    [
+      "bleed",
+      "is also known as",
+      "bleeds"
+    ],
+    [
+      "bleeding",
+      "is also known as",
+      "bleeds"
+    ],
+    [
+      "blind",
+      "is also known as",
+      "blindness"
+    ],
+    [
+      "blister",
+      "is also known as",
+      "blisters"
+    ],
+    [
+      "bloated",
+      "is also known as",
+      "bloating"
+    ],
+    [
+      "bruise",
+      "is also known as",
+      "bruised"
+    ],
+    [
+      "bruise",
+      "is also known as",
+      "bruises"
+    ],
+    [
+      "bruise",
+      "is also known as",
+      "bruising"
+    ],
+    [
+      "bruised",
+      "is also known as",
+      "bruises"
+    ],
+    [
+      "bruised",
+      "is also known as",
+      "bruising"
+    ],
+    [
+      "bruises",
+      "is also known as",
+      "bruising"
+    ],
+    [
+      "bump",
+      "is also known as",
+      "bumps"
+    ],
+    [
+      "burn",
+      "is also known as",
+      "burning"
+    ],
+    [
+      "burn",
+      "is also known as",
+      "burns"
+    ],
+    [
+      "burning",
+      "is also known as",
+      "burns"
+    ],
+    [
+      "cavities",
+      "is also known as",
+      "cavity"
+    ],
+    [
+      "choke",
+      "is also known as",
+      "choked"
+    ],
+    [
+      "choke",
+      "is also known as",
+      "choking"
+    ],
+    [
+      "choked",
+      "is also known as",
+      "choking"
+    ],
+    [
+      "collapse",
+      "is also known as",
+      "collapsed"
+    ],
+    [
+      "confused",
+      "is also known as",
+      "confusion"
+    ],
+    [
+      "congested",
+      "is also known as",
+      "congestion"
+    ],
+    [
+      "constipated",
+      "is also known as",
+      "constipation"
+    ],
+    [
+      "convulsing",
+      "is also known as",
+      "convulsion"
+    ],
+    [
+      "cough",
+      "is also known as",
+      "coughs"
+    ],
+    [
+      "cough",
+      "is also known as",
+      "coughing"
+    ],
+    [
+      "coughs",
+      "is also known as",
+      "coughing"
+    ],
+    [
+      "crack",
+      "is also known as",
+      "cracks"
+    ],
+    [
+      "cramp",
+      "is also known as",
+      "cramping"
+    ],
+    [
+      "cramp",
+      "is also known as",
+      "cramps"
+    ],
+    [
+      "cramping",
+      "is also known as",
+      "cramps"
+    ],
+    [
+      "deaf",
+      "is also known as",
+      "deafness"
+    ],
+    [
+      "dent",
+      "is also known as",
+      "dents"
+    ],
+    [
+      "depression",
+      "is also known as",
+      "depressive"
+    ],
+    [
+      "dizziness",
+      "is also known as",
+      "dizzy"
+    ],
+    [
+      "dot",
+      "is also known as",
+      "dots"
+    ],
+    [
+      "electric current",
+      "is also known as",
+      "electric currents"
+    ],
+    [
+      "electric shock",
+      "is also known as",
+      "electric shocks"
+    ],
+    [
+      "exhausted",
+      "is also known as",
+      "exhaustion"
+    ],
+    [
+      "fatigue",
+      "is also known as",
+      "fatigued"
+    ],
+    [
+      "fatigue",
+      "is also known as",
+      "feeling tired"
+    ],
+    [
+      "fatigue",
+      "is also known as",
+      "low energy"
+    ],
+    [
+      "fatigue",
+      "is also known as",
+      "lethargy"
+    ],
+    [
+      "fatigued",
+      "is also known as",
+      "feeling tired"
+    ],
+    [
+      "fatigued",
+      "is also known as",
+      "low energy"
+    ],
+    [
+      "fatigued",
+      "is also known as",
+      "lethargy"
+    ],
+    [
+      "feeling tired",
+      "is also known as",
+      "low energy"
+    ],
+    [
+      "feeling tired",
+      "is also known as",
+      "lethargy"
+    ],
+    [
+      "low energy",
+      "is also known as",
+      "lethargy"
+    ],
+    [
+      "flare up",
+      "is also known as",
+      "flare ups"
+    ],
+    [
+      "flare up",
+      "is also known as",
+      "flaring up"
+    ],
+    [
+      "flare ups",
+      "is also known as",
+      "flaring up"
+    ],
+    [
+      "gasping",
+      "is also known as",
+      "gasping for air"
+    ],
+    [
+      "headache",
+      "is also known as",
+      "headaches"
+    ],
+    [
+      "heart palpitation",
+      "is also known as",
+      "heart palpitations"
+    ],
+    [
+      "hurt",
+      "is also known as",
+      "hurting"
+    ],
+    [
+      "hurt",
+      "is also known as",
+      "hurts"
+    ],
+    [
+      "hurting",
+      "is also known as",
+      "hurts"
+    ],
+    [
+      "ill",
+      "is also known as",
+      "sick"
+    ],
+    [
+      "ill",
+      "is also known as",
+      "feel unwell"
+    ],
+    [
+      "sick",
+      "is also known as",
+      "feel unwell"
+    ],
+    [
+      "imbalance",
+      "is also known as",
+      "unbalance"
+    ],
+    [
+      "indigestion",
+      "is also known as",
+      "gassy"
+    ],
+    [
+      "injury",
+      "is also known as",
+      "wound"
+    ],
+    [
+      "irritability",
+      "is also known as",
+      "irritable"
+    ],
+    [
+      "irritability",
+      "is also known as",
+      "irritated"
+    ],
+    [
+      "irritability",
+      "is also known as",
+      "irritation"
+    ],
+    [
+      "irritable",
+      "is also known as",
+      "irritated"
+    ],
+    [
+      "irritable",
+      "is also known as",
+      "irritation"
+    ],
+    [
+      "irritated",
+      "is also known as",
+      "irritation"
+    ],
+    [
+      "itch",
+      "is also known as",
+      "itched"
+    ],
+    [
+      "itch",
+      "is also known as",
+      "itchiness"
+    ],
+    [
+      "itch",
+      "is also known as",
+      "itching"
+    ],
+    [
+      "itched",
+      "is also known as",
+      "itchiness"
+    ],
+    [
+      "itched",
+      "is also known as",
+      "itching"
+    ],
+    [
+      "itchiness",
+      "is also known as",
+      "itching"
+    ],
+    [
+      "jerk",
+      "is also known as",
+      "jerked"
+    ],
+    [
+      "jerk",
+      "is also known as",
+      "jerking"
+    ],
+    [
+      "jerk",
+      "is also known as",
+      "jerks"
+    ],
+    [
+      "jerked",
+      "is also known as",
+      "jerking"
+    ],
+    [
+      "jerked",
+      "is also known as",
+      "jerks"
+    ],
+    [
+      "jerking",
+      "is also known as",
+      "jerks"
+    ],
+    [
+      "lack of appetite",
+      "is also known as",
+      "losing appetite"
+    ],
+    [
+      "lack of appetite",
+      "is also known as",
+      "loss of appetite"
+    ],
+    [
+      "losing appetite",
+      "is also known as",
+      "loss of appetite"
+    ],
+    [
+      "light headed",
+      "is also known as",
+      "light-headed"
+    ],
+    [
+      "light headed",
+      "is also known as",
+      "lightheaded"
+    ],
+    [
+      "light headed",
+      "is also known as",
+      "lightheadedness"
+    ],
+    [
+      "light-headed",
+      "is also known as",
+      "lightheaded"
+    ],
+    [
+      "light-headed",
+      "is also known as",
+      "lightheadedness"
+    ],
+    [
+      "lightheaded",
+      "is also known as",
+      "lightheadedness"
+    ],
+    [
+      "limp",
+      "is also known as",
+      "limping"
+    ],
+    [
+      "lump",
+      "is also known as",
+      "lumps"
+    ],
+    [
+      "naseua",
+      "is also known as",
+      "nausea"
+    ],
+    [
+      "naseua",
+      "is also known as",
+      "nauseous"
+    ],
+    [
+      "nausea",
+      "is also known as",
+      "nauseous"
+    ],
+    [
+      "noise",
+      "is also known as",
+      "noises"
+    ],
+    [
+      "nose bleed",
+      "is also known as",
+      "nose bleeds"
+    ],
+    [
+      "numb",
+      "is also known as",
+      "numbness"
+    ],
+    [
+      "obese",
+      "is also known as",
+      "obesity"
+    ],
+    [
+      "obese",
+      "is also known as",
+      "obsessive"
+    ],
+    [
+      "obesity",
+      "is also known as",
+      "obsessive"
+    ],
+    [
+      "palpatation",
+      "is also known as",
+      "palpatations"
+    ],
+    [
+      "palpatation",
+      "is also known as",
+      "palpatition"
+    ],
+    [
+      "palpatation",
+      "is also known as",
+      "palpatitions"
+    ],
+    [
+      "palpatations",
+      "is also known as",
+      "palpatition"
+    ],
+    [
+      "palpatations",
+      "is also known as",
+      "palpatitions"
+    ],
+    [
+      "palpatition",
+      "is also known as",
+      "palpatitions"
+    ],
+    [
+      "panic attack",
+      "is also known as",
+      "panic attacks"
+    ],
+    [
+      "post nasal drip",
+      "is also known as",
+      "post-nasal drip"
+    ],
+    [
+      "post nasal drip",
+      "is also known as",
+      "postnasal drip"
+    ],
+    [
+      "post-nasal drip",
+      "is also known as",
+      "postnasal drip"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "puked"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "puking"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "threw up"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "throw up"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "throwing up"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "puke",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "puking"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "threw up"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "throw up"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "throwing up"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "puked",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "puking",
+      "is also known as",
+      "threw up"
+    ],
+    [
+      "puking",
+      "is also known as",
+      "throw up"
+    ],
+    [
+      "puking",
+      "is also known as",
+      "throwing up"
+    ],
+    [
+      "puking",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "puking",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "threw up",
+      "is also known as",
+      "throw up"
+    ],
+    [
+      "threw up",
+      "is also known as",
+      "throwing up"
+    ],
+    [
+      "threw up",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "threw up",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "throw up",
+      "is also known as",
+      "throwing up"
+    ],
+    [
+      "throw up",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "throw up",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "throwing up",
+      "is also known as",
+      "vomit"
+    ],
+    [
+      "throwing up",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "vomit",
+      "is also known as",
+      "vomiting"
+    ],
+    [
+      "rash",
+      "is also known as",
+      "rashes"
+    ],
+    [
+      "ring",
+      "is also known as",
+      "ringing"
+    ],
+    [
+      "scar",
+      "is also known as",
+      "scared"
+    ],
+    [
+      "scar",
+      "is also known as",
+      "scarring"
+    ],
+    [
+      "scar",
+      "is also known as",
+      "scars"
+    ],
+    [
+      "scared",
+      "is also known as",
+      "scarring"
+    ],
+    [
+      "scared",
+      "is also known as",
+      "scars"
+    ],
+    [
+      "scarring",
+      "is also known as",
+      "scars"
+    ],
+    [
+      "scratch",
+      "is also known as",
+      "scratches"
+    ],
+    [
+      "scratch",
+      "is also known as",
+      "scratchiness"
+    ],
+    [
+      "scratch",
+      "is also known as",
+      "scratchy"
+    ],
+    [
+      "scratches",
+      "is also known as",
+      "scratchiness"
+    ],
+    [
+      "scratches",
+      "is also known as",
+      "scratchy"
+    ],
+    [
+      "scratchiness",
+      "is also known as",
+      "scratchy"
+    ],
+    [
+      "seizure",
+      "is also known as",
+      "seizures"
+    ],
+    [
+      "shake",
+      "is also known as",
+      "shaked"
+    ],
+    [
+      "shake",
+      "is also known as",
+      "shaking"
+    ],
+    [
+      "shake",
+      "is also known as",
+      "shaky"
+    ],
+    [
+      "shaked",
+      "is also known as",
+      "shaking"
+    ],
+    [
+      "shaked",
+      "is also known as",
+      "shaky"
+    ],
+    [
+      "shaking",
+      "is also known as",
+      "shaky"
+    ],
+    [
+      "shiver",
+      "is also known as",
+      "shivering"
+    ],
+    [
+      "shiver",
+      "is also known as",
+      "shivers"
+    ],
+    [
+      "shiver",
+      "is also known as",
+      "shivery"
+    ],
+    [
+      "shivering",
+      "is also known as",
+      "shivers"
+    ],
+    [
+      "shivering",
+      "is also known as",
+      "shivery"
+    ],
+    [
+      "shivers",
+      "is also known as",
+      "shivery"
+    ],
+    [
+      "short of breath",
+      "is also known as",
+      "shortness of breath"
+    ],
+    [
+      "short of breath",
+      "is also known as",
+      "out of breath"
+    ],
+    [
+      "shortness of breath",
+      "is also known as",
+      "out of breath"
+    ],
+    [
+      "sneeze",
+      "is also known as",
+      "sneezes"
+    ],
+    [
+      "sneeze",
+      "is also known as",
+      "sneezing"
+    ],
+    [
+      "sneezes",
+      "is also known as",
+      "sneezing"
+    ],
+    [
+      "spot",
+      "is also known as",
+      "spots"
+    ],
+    [
+      "stomach pain",
+      "is also known as",
+      "stomachache"
+    ],
+    [
+      "stone",
+      "is also known as",
+      "stones"
+    ],
+    [
+      "streak",
+      "is also known as",
+      "streaks"
+    ],
+    [
+      "stress",
+      "is also known as",
+      "stressed"
+    ],
+    [
+      "stress",
+      "is also known as",
+      "stressing"
+    ],
+    [
+      "stressed",
+      "is also known as",
+      "stressing"
+    ],
+    [
+      "tingle",
+      "is also known as",
+      "tingling"
+    ],
+    [
+      "tired",
+      "is also known as",
+      "tiredness"
+    ],
+    [
+      "tremor",
+      "is also known as",
+      "tremors"
+    ],
+    [
+      "tumor",
+      "is also known as",
+      "tumors"
+    ],
+    [
+      "twitch",
+      "is also known as",
+      "twitches"
+    ],
+    [
+      "twitch",
+      "is also known as",
+      "twitching"
+    ],
+    [
+      "twitches",
+      "is also known as",
+      "twitching"
+    ],
+    [
+      "unconscious",
+      "is also known as",
+      "unconsciousness"
+    ],
+    [
+      "unease",
+      "is also known as",
+      "uneasy"
+    ],
+    [
+      "vitamin deficiencies",
+      "is also known as",
+      "vitamin deficiency"
+    ],
+    [
+      "weight gain",
+      "is also known as",
+      "gaining weight"
+    ],
+    [
+      "weight loss",
+      "is also known as",
+      "losing weight"
+    ],
+    [
+      "worried",
+      "is also known as",
+      "worry"
+    ],
+    [
+      "worried",
+      "is also known as",
+      "worrying"
+    ],
+    [
+      "worry",
+      "is also known as",
+      "worrying"
+    ],
+    [
+      "fingernails",
+      "tagged as",
+      "anatomy"
+    ],
+    [
+      "abdomen",
+      "is also known as",
+      "abdominal"
+    ],
+    [
+      "ankle",
+      "is also known as",
+      "ankles"
+    ],
+    [
+      "arm",
+      "is also known as",
+      "arms"
+    ],
+    [
+      "armpits",
+      "is also known as",
+      "underarm"
+    ],
+    [
+      "armpits",
+      "is also known as",
+      "underarms"
+    ],
+    [
+      "underarm",
+      "is also known as",
+      "underarms"
+    ],
+    [
+      "arteries",
+      "is also known as",
+      "artery"
+    ],
+    [
+      "ass",
+      "is also known as",
+      "butt"
+    ],
+    [
+      "ass",
+      "is also known as",
+      "buttock"
+    ],
+    [
+      "ass",
+      "is also known as",
+      "buttocks"
+    ],
+    [
+      "butt",
+      "is also known as",
+      "buttock"
+    ],
+    [
+      "butt",
+      "is also known as",
+      "buttocks"
+    ],
+    [
+      "buttock",
+      "is also known as",
+      "buttocks"
+    ],
+    [
+      "belly",
+      "is also known as",
+      "stomach"
+    ],
+    [
+      "belly",
+      "is also known as",
+      "bowel"
+    ],
+    [
+      "stomach",
+      "is also known as",
+      "bowel"
+    ],
+    [
+      "bone",
+      "is also known as",
+      "bones"
+    ],
+    [
+      "boob",
+      "is also known as",
+      "boobs"
+    ],
+    [
+      "breast",
+      "is also known as",
+      "breasts"
+    ],
+    [
+      "cervix",
+      "is also known as",
+      "cervical"
+    ],
+    [
+      "cheek",
+      "is also known as",
+      "cheeks"
+    ],
+    [
+      "digestive",
+      "is also known as",
+      "digestive system"
+    ],
+    [
+      "digestive",
+      "is also known as",
+      "digestive tract"
+    ],
+    [
+      "digestive system",
+      "is also known as",
+      "digestive tract"
+    ],
+    [
+      "discoloration",
+      "is also known as",
+      "discolored"
+    ],
+    [
+      "ear",
+      "is also known as",
+      "ears"
+    ],
+    [
+      "elbow",
+      "is also known as",
+      "elbows"
+    ],
+    [
+      "eye",
+      "is also known as",
+      "eyes"
+    ],
+    [
+      "eyebrow",
+      "is also known as",
+      "eyebrows"
+    ],
+    [
+      "eyelash",
+      "is also known as",
+      "eyelashes"
+    ],
+    [
+      "feet",
+      "is also known as",
+      "foot"
+    ],
+    [
+      "finger",
+      "is also known as",
+      "fingers"
+    ],
+    [
+      "flank",
+      "is also known as",
+      "flanks"
+    ],
+    [
+      "follicle",
+      "is also known as",
+      "follicles"
+    ],
+    [
+      "gum",
+      "is also known as",
+      "gums"
+    ],
+    [
+      "hair follicle",
+      "is also known as",
+      "hair follicles"
+    ],
+    [
+      "hand",
+      "is also known as",
+      "hands"
+    ],
+    [
+      "hip",
+      "is also known as",
+      "hips"
+    ],
+    [
+      "intestine",
+      "is also known as",
+      "intestines"
+    ],
+    [
+      "joint",
+      "is also known as",
+      "joints"
+    ],
+    [
+      "kidney",
+      "is also known as",
+      "kidneys"
+    ],
+    [
+      "knee",
+      "is also known as",
+      "knees"
+    ],
+    [
+      "leg",
+      "is also known as",
+      "legs"
+    ],
+    [
+      "lip",
+      "is also known as",
+      "lips"
+    ],
+    [
+      "lung",
+      "is also known as",
+      "lungs"
+    ],
+    [
+      "molar",
+      "is also known as",
+      "molars"
+    ],
+    [
+      "muscle",
+      "is also known as",
+      "muscles"
+    ],
+    [
+      "nail",
+      "is also known as",
+      "nails"
+    ],
+    [
+      "nail",
+      "is also known as",
+      "fingernail"
+    ],
+    [
+      "nail",
+      "is also known as",
+      "fingernails"
+    ],
+    [
+      "nails",
+      "is also known as",
+      "fingernail"
+    ],
+    [
+      "nails",
+      "is also known as",
+      "fingernails"
+    ],
+    [
+      "fingernail",
+      "is also known as",
+      "fingernails"
+    ],
+    [
+      "nasal",
+      "is also known as",
+      "nasal cavity"
+    ],
+    [
+      "nerve",
+      "is also known as",
+      "nerves"
+    ],
+    [
+      "nipple",
+      "is also known as",
+      "nipples"
+    ],
+    [
+      "nostril",
+      "is also known as",
+      "nostrils"
+    ],
+    [
+      "ovaries",
+      "is also known as",
+      "ovary"
+    ],
+    [
+      "pectoral",
+      "is also known as",
+      "pectoral area"
+    ],
+    [
+      "pectoral",
+      "is also known as",
+      "pectoral region"
+    ],
+    [
+      "pectoral area",
+      "is also known as",
+      "pectoral region"
+    ],
+    [
+      "pelvic",
+      "is also known as",
+      "pelvic area"
+    ],
+    [
+      "respiratory",
+      "is also known as",
+      "respiratory system"
+    ],
+    [
+      "rib",
+      "is also known as",
+      "ribs"
+    ],
+    [
+      "shoulder",
+      "is also known as",
+      "shoulders"
+    ],
+    [
+      "sinus",
+      "is also known as",
+      "sinuses"
+    ],
+    [
+      "spinal",
+      "is also known as",
+      "spinal cord"
+    ],
+    [
+      "spinal",
+      "is also known as",
+      "spine"
+    ],
+    [
+      "spinal cord",
+      "is also known as",
+      "spine"
+    ],
+    [
+      "teeth",
+      "is also known as",
+      "tooth"
+    ],
+    [
+      "testes",
+      "is also known as",
+      "testicle"
+    ],
+    [
+      "testes",
+      "is also known as",
+      "testicular"
+    ],
+    [
+      "testicle",
+      "is also known as",
+      "testicular"
+    ],
+    [
+      "thigh",
+      "is also known as",
+      "thighs"
+    ],
+    [
+      "thyroid",
+      "is also known as",
+      "thyroid gland"
+    ],
+    [
+      "tonsil",
+      "is also known as",
+      "tonsils"
+    ],
+    [
+      "underarm",
+      "is also known as",
+      "underarms"
+    ],
+    [
+      "urinary system",
+      "is also known as",
+      "urinary tract"
+    ],
+    [
+      "vagina",
+      "is also known as",
+      "penis"
+    ],
+    [
+      "vagina",
+      "is also known as",
+      "genital"
+    ],
+    [
+      "vagina",
+      "is also known as",
+      "genitals"
+    ],
+    [
+      "penis",
+      "is also known as",
+      "genital"
+    ],
+    [
+      "penis",
+      "is also known as",
+      "genitals"
+    ],
+    [
+      "genital",
+      "is also known as",
+      "genitals"
+    ],
+    [
+      "vein",
+      "is also known as",
+      "veins"
+    ],
+    [
+      "waist",
+      "is also known as",
+      "waistline"
+    ],
+    [
+      "wisdom teeth",
+      "is also known as",
+      "wisdom tooth"
+    ],
+    [
+      "wrist",
+      "is also known as",
+      "wrists"
+    ],
+    [
+      "aware",
+      "is also known as",
+      "awareness"
+    ],
+    [
+      "aware",
+      "is also known as",
+      "consciousness"
+    ],
+    [
+      "awareness",
+      "is also known as",
+      "consciousness"
+    ],
+    [
+      "blow",
+      "is also known as",
+      "blowed"
+    ],
+    [
+      "blow",
+      "is also known as",
+      "blowing"
+    ],
+    [
+      "blow",
+      "is also known as",
+      "blows"
+    ],
+    [
+      "blowed",
+      "is also known as",
+      "blowing"
+    ],
+    [
+      "blowed",
+      "is also known as",
+      "blows"
+    ],
+    [
+      "blowing",
+      "is also known as",
+      "blows"
+    ],
+    [
+      "breath",
+      "is also known as",
+      "breathe"
+    ],
+    [
+      "breath",
+      "is also known as",
+      "breathing"
+    ],
+    [
+      "breathe",
+      "is also known as",
+      "breathing"
+    ],
+    [
+      "burp",
+      "is also known as",
+      "burped"
+    ],
+    [
+      "burp",
+      "is also known as",
+      "burping"
+    ],
+    [
+      "burp",
+      "is also known as",
+      "burps"
+    ],
+    [
+      "burped",
+      "is also known as",
+      "burping"
+    ],
+    [
+      "burped",
+      "is also known as",
+      "burps"
+    ],
+    [
+      "burping",
+      "is also known as",
+      "burps"
+    ],
+    [
+      "clot",
+      "is also known as",
+      "clotting"
+    ],
+    [
+      "cognition",
+      "is also known as",
+      "cognitive"
+    ],
+    [
+      "comprehend",
+      "is also known as",
+      "comprehended"
+    ],
+    [
+      "comprehend",
+      "is also known as",
+      "comprehension"
+    ],
+    [
+      "comprehended",
+      "is also known as",
+      "comprehension"
+    ],
+    [
+      "concentrate",
+      "is also known as",
+      "concentration"
+    ],
+    [
+      "control",
+      "is also known as",
+      "controlling"
+    ],
+    [
+      "cried",
+      "is also known as",
+      "cry"
+    ],
+    [
+      "cried",
+      "is also known as",
+      "crying"
+    ],
+    [
+      "cry",
+      "is also known as",
+      "crying"
+    ],
+    [
+      "drank",
+      "is also known as",
+      "drink"
+    ],
+    [
+      "drank",
+      "is also known as",
+      "drinking"
+    ],
+    [
+      "drink",
+      "is also known as",
+      "drinking"
+    ],
+    [
+      "eat",
+      "is also known as",
+      "eating"
+    ],
+    [
+      "emotion",
+      "is also known as",
+      "emotions"
+    ],
+    [
+      "erectile",
+      "is also known as",
+      "erection"
+    ],
+    [
+      "experience",
+      "is also known as",
+      "experienced"
+    ],
+    [
+      "experience",
+      "is also known as",
+      "experiencing"
+    ],
+    [
+      "experienced",
+      "is also known as",
+      "experiencing"
+    ],
+    [
+      "falling asleep",
+      "is also known as",
+      "sleep"
+    ],
+    [
+      "falling asleep",
+      "is also known as",
+      "sleeping"
+    ],
+    [
+      "falling asleep",
+      "is also known as",
+      "sleeps"
+    ],
+    [
+      "falling asleep",
+      "is also known as",
+      "slept"
+    ],
+    [
+      "falling asleep",
+      "is also known as",
+      "asleep"
+    ],
+    [
+      "sleep",
+      "is also known as",
+      "sleeping"
+    ],
+    [
+      "sleep",
+      "is also known as",
+      "sleeps"
+    ],
+    [
+      "sleep",
+      "is also known as",
+      "slept"
+    ],
+    [
+      "sleep",
+      "is also known as",
+      "asleep"
+    ],
+    [
+      "sleeping",
+      "is also known as",
+      "sleeps"
+    ],
+    [
+      "sleeping",
+      "is also known as",
+      "slept"
+    ],
+    [
+      "sleeping",
+      "is also known as",
+      "asleep"
+    ],
+    [
+      "sleeps",
+      "is also known as",
+      "slept"
+    ],
+    [
+      "sleeps",
+      "is also known as",
+      "asleep"
+    ],
+    [
+      "slept",
+      "is also known as",
+      "asleep"
+    ],
+    [
+      "fart",
+      "is also known as",
+      "farting"
+    ],
+    [
+      "fart",
+      "is also known as",
+      "farts"
+    ],
+    [
+      "farting",
+      "is also known as",
+      "farts"
+    ],
+    [
+      "feel",
+      "is also known as",
+      "feeling"
+    ],
+    [
+      "feel",
+      "is also known as",
+      "feelings"
+    ],
+    [
+      "feel",
+      "is also known as",
+      "felt"
+    ],
+    [
+      "feeling",
+      "is also known as",
+      "feelings"
+    ],
+    [
+      "feeling",
+      "is also known as",
+      "felt"
+    ],
+    [
+      "feelings",
+      "is also known as",
+      "felt"
+    ],
+    [
+      "heal",
+      "is also known as",
+      "healed"
+    ],
+    [
+      "heal",
+      "is also known as",
+      "healing"
+    ],
+    [
+      "heal",
+      "is also known as",
+      "heals"
+    ],
+    [
+      "healed",
+      "is also known as",
+      "healing"
+    ],
+    [
+      "healed",
+      "is also known as",
+      "heals"
+    ],
+    [
+      "healing",
+      "is also known as",
+      "heals"
+    ],
+    [
+      "hunger",
+      "is also known as",
+      "hungry"
+    ],
+    [
+      "lactating",
+      "is also known as",
+      "lactation"
+    ],
+    [
+      "libido",
+      "is also known as",
+      "sex drive"
+    ],
+    [
+      "menstrual",
+      "is also known as",
+      "menstrual cycle"
+    ],
+    [
+      "menstrual",
+      "is also known as",
+      "menstruating"
+    ],
+    [
+      "menstrual",
+      "is also known as",
+      "menstruation"
+    ],
+    [
+      "menstrual cycle",
+      "is also known as",
+      "menstruating"
+    ],
+    [
+      "menstrual cycle",
+      "is also known as",
+      "menstruation"
+    ],
+    [
+      "menstruating",
+      "is also known as",
+      "menstruation"
+    ],
+    [
+      "pee",
+      "is also known as",
+      "peeing"
+    ],
+    [
+      "pee",
+      "is also known as",
+      "urination"
+    ],
+    [
+      "peeing",
+      "is also known as",
+      "urination"
+    ],
+    [
+      "period",
+      "is also known as",
+      "periods"
+    ],
+    [
+      "poop",
+      "is also known as",
+      "pooping"
+    ],
+    [
+      "process",
+      "is also known as",
+      "processed"
+    ],
+    [
+      "process",
+      "is also known as",
+      "processing"
+    ],
+    [
+      "processed",
+      "is also known as",
+      "processing"
+    ],
+    [
+      "shit",
+      "is also known as",
+      "shitting"
+    ],
+    [
+      "smoke",
+      "is also known as",
+      "smoking"
+    ],
+    [
+      "speak",
+      "is also known as",
+      "speaking"
+    ],
+    [
+      "stretch",
+      "is also known as",
+      "stretching"
+    ],
+    [
+      "swallow",
+      "is also known as",
+      "swallowing"
+    ],
+    [
+      "thought",
+      "is also known as",
+      "thoughts"
+    ],
+    [
+      "turn",
+      "is also known as",
+      "turned"
+    ],
+    [
+      "turn",
+      "is also known as",
+      "turning"
+    ],
+    [
+      "turn",
+      "is also known as",
+      "turns"
+    ],
+    [
+      "turned",
+      "is also known as",
+      "turning"
+    ],
+    [
+      "turned",
+      "is also known as",
+      "turns"
+    ],
+    [
+      "turning",
+      "is also known as",
+      "turns"
+    ],
+    [
+      "vocal",
+      "is also known as",
+      "voice"
+    ],
+    [
+      "wash",
+      "is also known as",
+      "washed"
     ]
   ]
 }
